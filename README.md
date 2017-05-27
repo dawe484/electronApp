@@ -1,2 +1,2 @@
-# electronApp
-First Electron app.
+# Electron App
+Try to create my first Electron app.
