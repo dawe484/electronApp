@@ -1,0 +1,14 @@
+{
+  "name": "electronApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": "https://github.com/dawe484/electronApp.git",
+  "author": "David Krénar <dawe484@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.6.10"
+  }
+}
